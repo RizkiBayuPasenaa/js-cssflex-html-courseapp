@@ -1,0 +1,53 @@
+{
+    "menu": [
+        {
+            "nama": "Flutter",
+            "deskripsi": "Belajar flutter sebagai aplikasi mobile apps",
+            "harga": 200000,
+            "gambar": "asset/produk2.png"
+        },
+
+        {
+            "nama": "Python",
+            "deskripsi": "Python sebagai bahasa pemrograman data science",
+            "harga": 1000000,
+            "gambar": "asset/produk3.png"
+        },
+        
+        {
+            "nama": "React JS",
+            "deskripsi": "Membangun weather apps menggunakan React JS",
+            "harga": "Free",
+            "gambar": "asset/produk4.png"
+        },
+        
+
+        {
+            "nama": "Adobe Illustrator",
+            "deskripsi": "Membuat flat character menggunakan Adobe Illustrator",
+            "harga": 50000,
+            "gambar": "asset/produk5.png"
+        },
+
+        {
+            "nama": "Microsoft Excell",
+            "deskripsi": "Belajar pengolahan angka menggunakan Microsoft Excell",
+            "harga": 100000,
+            "gambar": "asset/produk6.png"
+        },
+        
+        {
+            "nama": "Framework PHP (Laravel)",
+            "deskripsi": "Membangun web artikel menggunakan framework laravel",
+            "harga": 400000,
+            "gambar": "asset/produk7.png"
+        },
+        
+        {
+            "nama": "Adobe After Effects",
+            "deskripsi": "Membuat logo motion menggunakan Adobe After Effects",
+            "harga": 200000,
+            "gambar": "asset/produk8.png"
+        }
+    ]
+}
